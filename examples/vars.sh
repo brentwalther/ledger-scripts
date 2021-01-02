@@ -11,3 +11,9 @@ LEDGER_EXECUTABLE=/path/to/ledger/executable/ledger
 MASTER_ACCOUNTS_FILE=/path/to/ledger/master.accounts
 MASTER_COMMODITIES_FILE=/path/to/ledger/master.commodities
 MASTER_LEDGER_FILE=/path/to/ledger/master.ledger
+
+# The path to the git clone of github.com/brentwalther/jcf
+PATH_TO_JCF_WORKSPACE=/path/to/jcf
+
+# The path to a JCF settings profile text proto file.
+JCF_SETTINGS_PROFILES_FILE=/path/to/settings_profiles.textproto
